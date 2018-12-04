@@ -10,11 +10,11 @@ Collection of use for one language to development server side and front end.
 * Serverside: node.js(transpile)  https://nodejs.org/
 
 ## PureScript
-* Frontend: TypeScript http://www.purescript.org/
+* Frontend: PureScript http://www.purescript.org/
 * Serverside: node.js(transpile)  https://nodejs.org/
 
 ## Elm
-* Frontend: TypeScript https://elm-lang.org/
+* Frontend: Elm https://elm-lang.org/
 * Serverside: node.js(transpile)  https://nodejs.org/
 
 ## Dart
