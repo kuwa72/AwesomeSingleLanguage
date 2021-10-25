@@ -3,11 +3,15 @@ Collection of use for one language to development server side and front end.
 
 ## JavaScript
 * Frontend: Raw JavaScript or Babel https://babeljs.io/
-* Serverside: Node.js https://nodejs.org/
+* Serverside
+  *  Node.js https://nodejs.org/
+  *  Deno https://deno.land/
 
 ## TypeScript
 * Frontend: TypeScript https://www.typescriptlang.org/
-* Serverside: node.js(transpile)  https://nodejs.org/
+* Serverside
+  * node.js(transpile)  https://nodejs.org/
+  * Deno https://deno.land/
 
 ## PureScript
 * Frontend: PureScript http://www.purescript.org/
